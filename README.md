@@ -2,6 +2,12 @@
 
 The best (weekly) newsletters, sorted by topic and date of first issue (oldest first).
 
+## Software Development, General Topics
+
+Title | Archive | RSS | Twitter | Day | 1st Issue | Curator | Publisher
+:--|:--|:--|:--|:--|:--|:--|:--
+[Stack Exchange Newsletters](http://stackexchange.com/newsletters) | - | - | [@stackexchange](https://twitter.com/stackexchange) | - | [July 2011](https://blog.stackexchange.com/2011/07/stack-exchange-site-newsletters/) | - | stack exchange, inc
+
 ## Front End
 
 Title | Archive | RSS | Twitter | Day | 1st Issue | Curator | Publisher
