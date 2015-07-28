@@ -42,6 +42,11 @@ Title | Archive | RSS | Twitter | Day | 1st Issue | Curator | Publisher
 [Web Operations Weekly](http://webopsweekly.com/) | [Archive](http://webopsweekly.com/issues) | [RSS](http://webopsweekly.com/rss/22ck275b) | - | Wednesday | [February 10, 2015](http://webopsweekly.com/issues/1) | - | [Cooper Press](https://cooperpress.com)
 [Weekly Docker Newsletter](https://www.docker.com/newsletter-subscription) | [Archive](https://blog.docker.com/docker-weekly-archives/) | - | - | Wednesday | [September 26, 2013](http://us2.campaign-archive1.com/?u=13681e0f8a4ac09ce229a9b48&id=fe9359a1f5&e=[UNIQID]) | - | [Docker]()
 
+## Halted Newsletters
+
+* [Modern Web Observer](http://modernweb.com/modern-web-observer/)
+* [Weekly Devops](http://www.devopsweekly.com)
+
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
