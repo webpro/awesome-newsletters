@@ -29,6 +29,15 @@ Title | Archive | RSS | Twitter | Day | 1st Issue | Curator | Publisher
 [Node Weekly](http://nodeweekly.com) | [Archive](http://nodeweekly.com/issues) | [RSS]() | [Twitter]() | Friday | [August 29, 2013](http://nodeweekly.com/issues/1) | [Peter Cooper](https://twitter.com/peterc) | [Cooper Press](https://cooperpress.com)
 [npm weekly](https://www.npmjs.com/npm-weekly) | [Archive](http://us9.campaign-archive2.com/home/?u=077dfd41302a71310cef619e5&id=e17fe5d778) | [RSS](http://us9.campaign-archive2.com/feed?u=077dfd41302a71310cef619e5&id=e17fe5d778) | - | - | - | - | [npm, Inc.](https://www.npmjs.com/about)
 
+## DevOps
+
+Title | Archive | RSS | Twitter | Day | 1st Issue | Curator | Publisher
+:--|:--|:--|:--|:--|:--|:--|:--
+[DevOps Newsletter](https://blog.serverdensity.com/devops-newsletter/) | - | [RSS](http://feeds.feedburner.com/serverdensity) | - | Sunday | - | - | [server density](https://www.serverdensity.com)
+[Servers for Hackers](https://serversforhackers.com/editions) | [Archive](https://serversforhackers.com/editions) | [RSS](https://serversforhackers.com/feed) | [@srvrsforhackers](https://twitter.com/srvrsforhackers) | - | [Feb 25, 2014](https://serversforhackers.com/configuring-apache-virtual-hosts) | - | -
+[Web Operations Weekly](http://webopsweekly.com/) | [Archive](http://webopsweekly.com/issues) | [RSS](http://webopsweekly.com/rss/22ck275b) | - | Wednesday | [February 10, 2015](http://webopsweekly.com/issues/1) | - | [Cooper Press](https://cooperpress.com)
+[Weekly Docker Newsletter](https://www.docker.com/newsletter-subscription) | [Archive](https://blog.docker.com/docker-weekly-archives/) | - | - | Wednesday | [September 26, 2013](http://us2.campaign-archive1.com/?u=13681e0f8a4ac09ce229a9b48&id=fe9359a1f5&e=[UNIQID]) | - | [Docker]()
+
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
