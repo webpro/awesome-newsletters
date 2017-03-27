@@ -136,7 +136,6 @@ The best (weekly) newsletters, sorted by topic and date of first issue (oldest f
   [ESNext News](http://esnextnews.com/) | [Archive](http://esnextnews.com/archive.html) | [RSS](https://feeds.feedburner.com/EsnextNews) |  [@ESNextNews](https://twitter.com/ESnextNews) | Tuesday | [March 10, 2016](http://esnextnews.com/archive/es-next-news-2016-09-27.html) | [Axel Rauschmayer](https://twitter.com/rauschma) / [Johannes Weber](https://twitter.com/jowe) | N/A
 </details>
 
-
 ## Node.js(Click to expand)</summary>
 
 
@@ -157,6 +156,7 @@ The best (weekly) newsletters, sorted by topic and date of first issue (oldest f
   [npm, Inc.](https://www.npmjs.com/about)
 </details>
 
+
 ## Android
 
 <details>
@@ -175,15 +175,13 @@ The best (weekly) newsletters, sorted by topic and date of first issue (oldest f
 </details>
 
 
-
-
 ## DevOps(Click to expand)
 
 <details>
   <summary>
     DevOps Newsletter
   </summary>
-  
+
   [DevOps Newsletter](https://blog.serverdensity.com/devops-newsletter/)  -  [RSS](http://feeds.feedburner.com/serverdensity)  -  [@serverdensity](https://twitter.com/serverdensity)  -  [server density](https://www.serverdensity.com)
 </details>
 <details>
@@ -200,6 +198,7 @@ The best (weekly) newsletters, sorted by topic and date of first issue (oldest f
 
   [Web Operations Weekly](http://webopsweekly.com)  -  [Archive](http://webopsweekly.com/issues)  -  [RSS](http://webopsweekly.com/rss/22ck275b)  -  [Wednesday, February 10, 2015](http://webopsweekly.com/issues/1)  -  [Cooper Press](https://cooperpress.com)
 </details>
+
 
 ## PHP
 
