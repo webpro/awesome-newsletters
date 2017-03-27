@@ -42,6 +42,11 @@ Title | Archive | RSS | Twitter | Day | 1st Issue | Curator | Publisher
 [Servers for Hackers](https://serversforhackers.com/editions) | [Archive](https://serversforhackers.com/editions) | [RSS](https://serversforhackers.com/feed) | [@srvrsforhackers](https://twitter.com/srvrsforhackers) | - | [Feb 25, 2014](https://serversforhackers.com/configuring-apache-virtual-hosts) | - | -
 [Web Operations Weekly](http://webopsweekly.com) | [Archive](http://webopsweekly.com/issues) | [RSS](http://webopsweekly.com/rss/22ck275b) | - | Wednesday | [February 10, 2015](http://webopsweekly.com/issues/1) | - | [Cooper Press](https://cooperpress.com)
 
+## PHP
+Title | Archive | RSS | Twitter | Day | 1st Issue | Curator | Publisher
+:--|:--|:--|:--|:--|:--|:--|:--
+[PHP Weekly](http://www.phpweekly.com) | - | [RSS](http://www.phpweekly.com/rss.xml) | [@PHPWeeklyNews](https://twitter.com/PHPWeeklyNews) | Thursday | [26 April, 2013](http://www.phpweekly.com/archive/2013-04-26.html) | [Katie Eyers](katie@phpweekly.com) | - 
+
 ## Halted Newsletters
 
 * [Modern Web Observer](http://modernweb.com/modern-web-observer/)
