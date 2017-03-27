@@ -34,6 +34,7 @@ Title | Archive | RSS | Twitter | Day | 1st Issue | Curator | Publisher
 :--|:--|:--|:--|:--|:--|:--|:--
 [Node Weekly](http://nodeweekly.com) | [Archive](http://nodeweekly.com/issues) | [RSS](http://nodeweekly.com/rss/1k471e6h) | - | Friday | [August 29, 2013](http://nodeweekly.com/issues/1) | [Peter Cooper](https://twitter.com/peterc) | [Cooper Press](https://cooperpress.com)
 [npm weekly](https://www.npmjs.com/npm-weekly) | [Archive](http://us9.campaign-archive2.com/home/?u=077dfd41302a71310cef619e5&id=e17fe5d778) [Archive](https://medium.com/npm-inc/tagged/npm-weekly) | [RSS](http://us9.campaign-archive2.com/feed?u=077dfd41302a71310cef619e5&id=e17fe5d778) | [@npmjs](https://twitter.com/npmjs) | Thursday | - | - | [npm, Inc.](https://www.npmjs.com/about)
+[node module of the week](http://nmotw.in/subscribe/) | [Archive](https://nmotw.in/) | [RSS](https://nmotw.in/atom.xml) | [@nodemotw](https://twitter.com/nodemotw) | {Thurs|Fri|Sat}day | [](https://nmotw.in/rsvp/) | [Hemanth.HM](https://h3manth.com) | [nmotw.in](https://www.nmotw.in)
 
 ## Android
 
