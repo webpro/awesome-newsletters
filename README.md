@@ -121,6 +121,21 @@ The best (weekly) newsletters, sorted by topic and date of first issue (oldest f
 
   [pico stitch]()  -  [Archive](http://us15.campaign-archive1.com/home/?u=255b6e97fa550b55e8a9d42b8&id=6415e108fa)  -  [RSS](http://us15.campaign-archive2.com/feed?u=255b6e97fa550b55e8a9d42b8&id=6415e108fa)  -  [@wolframkriesing](https://twitter.com/wolframkriesing)  -  [Monday, February 28, 2017](http://us15.campaign-archive2.com/?u=255b6e97fa550b55e8a9d42b8&id=71b31ae4f6)  -  [Wolfram Kriesing](http://picostitch.com/)
 </details>
+<details>
+  <summary>
+    Pony Foo Weekly
+  </summary>
+  
+  [Pony Foo Weekly](https://ponyfoo.com/weekly) | [Archive](https://ponyfoo.com/weekly/history) | [RSS](https://ponyfoo.com/weekly/feed) |  | [@ponyfoo](https://twitter.com/ponyfoo) | Thursday | [March 10, 2016](https://ponyfoo.com/weekly/1/deployments-performance-es6-art-and-math) | [Nicolás Bevacqua](https://twitter.com/nzgb)
+</details>
+<details>
+  <summary>
+    ESNext News
+  </summary>
+  
+  [ESNext News](http://esnextnews.com/) | [Archive](http://esnextnews.com/archive.html) | [RSS](https://feeds.feedburner.com/EsnextNews) |  [@ESNextNews](https://twitter.com/ESnextNews) | Tuesday | [March 10, 2016](http://esnextnews.com/archive/es-next-news-2016-09-27.html) | [Axel Rauschmayer](https://twitter.com/rauschma) / [Johannes Weber](https://twitter.com/jowe) | N/A
+</details>
+
 
 ## Node.js(Click to expand)</summary>
 
@@ -142,13 +157,33 @@ The best (weekly) newsletters, sorted by topic and date of first issue (oldest f
   [npm, Inc.](https://www.npmjs.com/about)
 </details>
 
+## Android
+
+<details>
+  <summary>
+    Android Weekly
+  </summary>
+  
+  [Android Weekly](http://androidweekly.net) | [Archive](http://androidweekly.net/archive) | [RSS](view-source:http://us2.campaign-archive1.com/feed?u=887caf4f48db76fd91e20a06d&id=4eb677ad19) | [@androidweekly](https://twitter.com/androidweekly) | Sunday | [October 28, 2011](http://androidweekly.net/issues/issue-1) | [Gyuri Grell](https://twitter.com/ggrell), [Martin Gauer](https://twitter.com/attackemartin), [Sebastian Deutsch](https://twitter.com/sippndipp) | -
+</details>
+<details>
+  <summary>
+    #AndroidDev Digest
+  </summary>
+  
+  [#AndroidDev Digest](https://www.androiddevdigest.com/) | [Archive](https://www.androiddevdigest.com/) | [RSS](https://www.androiddevdigest.com/feed/) | [@AndroidDevDgst](https://twitter.com/AndroidDevDgst) | Wednesday | [October 7, 2013](https://www.androiddevdigest.com/digest-6/) | - | -
+</details>
+
+
+
+
 ## DevOps(Click to expand)
 
 <details>
   <summary>
     DevOps Newsletter
   </summary>
-
+  
   [DevOps Newsletter](https://blog.serverdensity.com/devops-newsletter/)  -  [RSS](http://feeds.feedburner.com/serverdensity)  -  [@serverdensity](https://twitter.com/serverdensity)  -  [server density](https://www.serverdensity.com)
 </details>
 <details>
@@ -164,6 +199,23 @@ The best (weekly) newsletters, sorted by topic and date of first issue (oldest f
   </summary>
 
   [Web Operations Weekly](http://webopsweekly.com)  -  [Archive](http://webopsweekly.com/issues)  -  [RSS](http://webopsweekly.com/rss/22ck275b)  -  [Wednesday, February 10, 2015](http://webopsweekly.com/issues/1)  -  [Cooper Press](https://cooperpress.com)
+</details>
+
+## PHP
+
+<details>
+  <summary>
+    PHP Weekly
+  </summary>
+  
+  [PHP Weekly](http://www.phpweekly.com) | - | [RSS](http://www.phpweekly.com/rss.xml) | [@PHPWeeklyNews](https://twitter.com/PHPWeeklyNews) | Thursday | [26 April, 2013](http://www.phpweekly.com/archive/2013-04-26.html) | [Katie Eyers](katie@phpweekly.com) | - 
+</details>
+<details>
+  <summary>
+    Laravel Newsletter
+  </summary>
+  
+  [Laravel Newsletter](https://laravel-news.com/newsletter) | - | - | - | Sunday | - | [Eric L. Barnes](https://ericlbarnes.com/) | [Laravel News](https://laravel-news.com/)
 </details>
 
 ---
