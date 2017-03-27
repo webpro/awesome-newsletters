@@ -34,6 +34,13 @@ Title | Archive | RSS | Twitter | Day | 1st Issue | Curator | Publisher
 [Node Weekly](http://nodeweekly.com) | [Archive](http://nodeweekly.com/issues) | [RSS](http://nodeweekly.com/rss/1k471e6h) | - | Friday | [August 29, 2013](http://nodeweekly.com/issues/1) | [Peter Cooper](https://twitter.com/peterc) | [Cooper Press](https://cooperpress.com)
 [npm weekly](https://www.npmjs.com/npm-weekly) | [Archive](http://us9.campaign-archive2.com/home/?u=077dfd41302a71310cef619e5&id=e17fe5d778) [Archive](https://medium.com/npm-inc/tagged/npm-weekly) | [RSS](http://us9.campaign-archive2.com/feed?u=077dfd41302a71310cef619e5&id=e17fe5d778) | [@npmjs](https://twitter.com/npmjs) | Thursday | - | - | [npm, Inc.](https://www.npmjs.com/about)
 
+## Android
+
+Title | Archive | RSS | Twitter | Day | 1st Issue | Curator | Publisher
+:--|:--|:--|:--|:--|:--|:--|:--
+[Android Weekly](http://androidweekly.net) | [Archive](http://androidweekly.net/archive) | [RSS](view-source:http://us2.campaign-archive1.com/feed?u=887caf4f48db76fd91e20a06d&id=4eb677ad19) | [@androidweekly](https://twitter.com/androidweekly) | Sunday | [October 28, 2011](http://androidweekly.net/issues/issue-1) | [Gyuri Grell](https://twitter.com/ggrell), [Martin Gauer](https://twitter.com/attackemartin), [Sebastian Deutsch](https://twitter.com/sippndipp) | -
+[#AndroidDev Digest](https://www.androiddevdigest.com/) | [Archive](https://www.androiddevdigest.com/) | [RSS](https://www.androiddevdigest.com/feed/) | [@AndroidDevDgst](https://twitter.com/AndroidDevDgst) | Wednesday | [October 7, 2013](https://www.androiddevdigest.com/digest-6/) | - | -
+
 ## DevOps
 
 Title | Archive | RSS | Twitter | Day | 1st Issue | Curator | Publisher
