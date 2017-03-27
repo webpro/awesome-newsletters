@@ -8,6 +8,7 @@ Title | Archive | RSS | Twitter | Day | 1st Issue | Curator | Publisher
 :--|:--|:--|:--|:--|:--|:--|:--
 [Stack Exchange Newsletters](http://stackexchange.com/newsletters) | - | - | [@stackexchange](https://twitter.com/stackexchange) | - | [July 2011](https://blog.stackexchange.com/2011/07/stack-exchange-site-newsletters/) | - | stack exchange, inc
 [Hacker Newsletter](http://www.hackernewsletter.com) | [Archive](http://us1.campaign-archive2.com/home/?u=faa8eb4ef3a111cef92c4f3d4&id=e505c88a2e) | [RSS](http://us1.campaign-archive1.com/feed?u=faa8eb4ef3a111cef92c4f3d4&id=e505c88a2e) | [@hnletter](https://twitter.com/hnletter) | Friday | - | [Kale Davis](http://www.kaledavis.com) | N/A
+[Web Platform Daily](https://webplatformdaily.org/) | [Latest](https://webplatformdaily.org/releases/2016-12-16) | [RSS](https://feeds.feedburner.com/OpenWebPlatformDailyDigest) | [@webplatformnews](https://twitter.com/webplatformnews) | - | [December 13, 2016](https://webplatformdaily.org/releases/2016-12-13) | - | [Šime Vidas](https://github.com/simevidas)
 
 ## Front End
 
