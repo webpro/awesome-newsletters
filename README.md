@@ -27,6 +27,9 @@ Title | Archive | RSS | Twitter | Day | 1st Issue | Curator | Publisher
 [React.js Newsletter](http://reactjsnewsletter.com) | [Archive](http://reactjsnewsletter.com/issues) | - | - | - | [December 30, 2015](http://reactjsnewsletter.com/issues/1) | [Tyler McGinnis](https://twitter.com/tylermcginnis33), [Ean Platter](https://twitter.com/eanplatter)
 [pico stitch]() | [Archive](http://us15.campaign-archive1.com/home/?u=255b6e97fa550b55e8a9d42b8&id=6415e108fa) | [RSS](http://us15.campaign-archive2.com/feed?u=255b6e97fa550b55e8a9d42b8&id=6415e108fa) | [@wolframkriesing](https://twitter.com/wolframkriesing) | Monday | [February 28, 2017](http://us15.campaign-archive2.com/?u=255b6e97fa550b55e8a9d42b8&id=71b31ae4f6) | [Wolfram Kriesing](http://picostitch.com/)
 [Pony Foo Weekly](https://ponyfoo.com/weekly) | [Archive](https://ponyfoo.com/weekly/history) | [RSS](https://ponyfoo.com/weekly/feed) |  | [@ponyfoo](https://twitter.com/ponyfoo) | Thursday | [March 10, 2016](https://ponyfoo.com/weekly/1/deployments-performance-es6-art-and-math) | [Nicolás Bevacqua](https://twitter.com/nzgb)
+[ESNext News](http://esnextnews.com/) | [Archive](http://esnextnews.com/archive.html) | [RSS](https://feeds.feedburner.com/EsnextNews) |  [@ESNextNews](https://twitter.com/ESnextNews) | Tuesday | [March 10, 2016](http://esnextnews.com/archive/es-next-news-2016-09-27.html) | [Axel Rauschmayer](https://twitter.com/rauschma) / [Johannes Weber](https://twitter.com/jowe) | N/A
+
+
 
 ## Node.js
 
