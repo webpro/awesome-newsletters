@@ -61,6 +61,11 @@ Title | Archive | RSS | Twitter | Day | 1st Issue | Curator | Publisher
 [PHP Weekly](http://www.phpweekly.com) | - | [RSS](http://www.phpweekly.com/rss.xml) | [@PHPWeeklyNews](https://twitter.com/PHPWeeklyNews) | Thursday | [26 April, 2013](http://www.phpweekly.com/archive/2013-04-26.html) | [Katie Eyers](katie@phpweekly.com) | - 
 [Laravel Newsletter](https://laravel-news.com/newsletter) | - | - | - | Sunday | - | [Eric L. Barnes](https://ericlbarnes.com/) | [Laravel News](https://laravel-news.com/)
 
+## .NET
+Title | Archive | RSS | Twitter | Day | 1st Issue | Curator | Publisher
+:--|:--|:--|:--|:--|:--|:--|:--
+[dotNET Weekly](https://www.dotnetweekly.com/) | [Archive](https://www.dotnetweekly.com/newsletters/) | [RSS](https://www.dotnetweekly.com/feed/) | [@DotNetWeekly](https://twitter.com/DotNetWeekly) | Tuesday | [13 May, 2012](https://www.dotnetweekly.com/newsletter/show_newsletter.php?w=19&y=2012) | [Bill Stavroulakis](info@dotnetweekly.com) | [Bill Stavroulakis](https://www.fullstackweekly.com/category/blog)
+
 ## Halted Newsletters
 
 * [Modern Web Observer](http://modernweb.com/modern-web-observer/)
