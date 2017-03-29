@@ -56,9 +56,10 @@ Title | Day | 1st Issue (Archive) | Twitter (Curator) | RSS
 [Laravel Newsletter](https://laravel-news.com/newsletter) | Sun | - | [@laravelnews](https://twitter.com/laravelnews) ([Eric L. Barnes](https://ericlbarnes.com)) | [RSS](https://feed.laravel-news.com/)
 
 ## .NET
-Title | Archive | RSS | Twitter | Day | 1st Issue | Curator | Publisher
-:--|:--|:--|:--|:--|:--|:--|:--
-[dotNET Weekly](https://www.dotnetweekly.com/) | [Archive](https://www.dotnetweekly.com/newsletters/) | [RSS](https://www.dotnetweekly.com/feed/) | [@DotNetWeekly](https://twitter.com/DotNetWeekly) | Tuesday | [13 May, 2012](https://www.dotnetweekly.com/newsletter/show_newsletter.php?w=19&y=2012) | [Bill Stavroulakis](info@dotnetweekly.com) | [Bill Stavroulakis](https://www.fullstackweekly.com/category/blog)
+
+Title | Day | 1st Issue (Archive) | Twitter (Curator) | RSS
+:--|:--|:--|:--|:--
+[dotNET Weekly](https://www.dotnetweekly.com) | Tue | [13 May, 2012](https://www.dotnetweekly.com/newsletter/show_newsletter.php?w=19&y=2012) ([A](https://www.dotnetweekly.com/newsletters/)) | [@DotNetWeekly](https://twitter.com/DotNetWeekly) ([Bill Stavroulakis](https://www.fullstackweekly.com/category/blog) | [RSS](https://www.dotnetweekly.com/feed/)
 
 ## Halted Newsletters
 
