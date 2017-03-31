@@ -44,10 +44,10 @@ Title | Day | 1st Issue (Archive) | Twitter (Curator) | RSS
 
 Title | Day | 1st Issue (Archive) | Twitter (Curator) | RSS
 :--|:--|:--|:--|:--
+[Cron Weekly](https://www.cronweekly.com) | Sun | [Nov 7, 2015](https://www.cronweekly.com/issue-1/) | [@CronWeekly](https://twitter.com/CronWeekly) ([Mattias Geniar](https://ma.ttias.be/)) | [RSS](https://www.cronweekly.com/feed)
 [DevOps Newsletter](https://blog.serverdensity.com/devops-newsletter/) | Sun| - | [@serverdensity](https://twitter.com/serverdensity) | [RSS](http://feeds.feedburner.com/serverdensity) 
 [Servers for Hackers](https://serversforhackers.com/editions) | - | [Feb 25, 2014](https://serversforhackers.com/configuring-apache-virtual-hosts) ([A](https://serversforhackers.com/editions)) | [@srvrsforhackers](https://twitter.com/srvrsforhackers) ([Chris Fidao](https://twitter.com/fideloper)) | [RSS](https://serversforhackers.com/feed)
 [Web Operations Weekly](http://webopsweekly.com) | Wed | [Feb 10, 2015](http://webopsweekly.com/issues/1) ([A](http://webopsweekly.com/issues)) | [@WebOpsDaily](https://twitter.com/WebOpsDaily) | [RSS](http://webopsweekly.com/rss/22ck275b)
-[Cron Weekly](https://www.cronweekly.com) | Sun | - | [@CronWeekly](https://twitter.com/CronWeekly) | [RSS](https://www.cronweekly.com/feed)
 
 ## PHP
 
