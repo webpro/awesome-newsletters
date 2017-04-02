@@ -62,6 +62,14 @@ Title | Day | #1 (Archive) | Twitter (Curator) | RSS
 :--|:--|:--|:--|:--
 [dotNET Weekly](https://www.dotnetweekly.com) | Tue | [2012-05-13](https://www.dotnetweekly.com/newsletter/show_newsletter.php?w=19&y=2012) ([A](https://www.dotnetweekly.com/newsletters/)) | [@DotNetWeekly](https://twitter.com/DotNetWeekly) ([B. Stavroulakis](https://www.fullstackweekly.com/category/blog)) | [RSS](https://www.dotnetweekly.com/feed/)
 
+## Ruby
+
+Title | Day | #1 (Archive) | Twitter (Curator) | RSS
+:--|:--|:--|:--|:--
+[Ruby Weekly](http://rubyweekly.com) | Thu | [2010-11-11](http://rubyweekly.com/issues/15) ([A](http://rubyweekly.com/issues)) | [@RubyInside](https://twitter.com/rubyinside) ([P. Cooper](https://twitter.com/peterc)) | [RSS](http://rubyweekly.com/rss)
+[Green Ruby News](http://greenruby.org) | Sun | [2013-02-12](http://greenruby.org/grn-001.html) ([A](http://greenruby.org)) | [@greenrubist](https://twitter.com/greenrubist) | [RSS](http://greenruby.org/feed.rss)
+[This Week in Rails](https://rails-weekly.ongoodbits.com) | Sat | [2014-03-14](https://rails-weekly.ongoodbits.com/2014/03/14/issue-1) ([A](https://rails-weekly.ongoodbits.com/archive)) | - | [RSS](https://rails-weekly.ongoodbits.com/feed)
+
 ## Halted Newsletters
 
 * [Modern Web Observer](https://modernweb.com) ([Archive](http://us1.campaign-archive2.com/home/?u=675e4f7ef901d5b8f5f909c2f&id=e88f8064d7))
