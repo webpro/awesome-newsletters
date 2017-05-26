@@ -32,6 +32,7 @@ Title | Day | #1 (Archive) | Twitter (Curator) | RSS
 [ESNext News](http://esnextnews.com/) | Tue | [2016-03-10](http://esnextnews.com/archive/es-next-news-2016-09-27.html)  ([A](http://esnextnews.com/archive.html)) |  [@ESNextNews](https://twitter.com/ESnextNews) ([Rauschmayer](https://twitter.com/rauschma), [Weber](https://twitter.com/jowe)) | [RSS](https://feeds.feedburner.com/EsnextNews)
 [pico stitch]() | Mon | [2017-02-28](http://us15.campaign-archive2.com/?u=255b6e97fa550b55e8a9d42b8&id=71b31ae4f6) ([A](http://us15.campaign-archive1.com/home/?u=255b6e97fa550b55e8a9d42b8&id=6415e108fa)) | [@wolframkriesing](https://twitter.com/wolframkriesing) ([W. Kriesing](http://picostitch.com/)) | [RSS](http://us15.campaign-archive2.com/feed?u=255b6e97fa550b55e8a9d42b8&id=6415e108fa)
 [npm weekly](https://www.npmjs.com/npm-weekly) | Thu | ? ([A](http://us9.campaign-archive2.com/home/?u=077dfd41302a71310cef619e5&id=e17fe5d778) [2](https://medium.com/npm-inc/tagged/npm-weekly)) | [@npmjs](https://twitter.com/npmjs) | [RSS](http://us9.campaign-archive2.com/feed?u=077dfd41302a71310cef619e5&id=e17fe5d778)
+[PWA Tips](https://www.pwa.tips) | Tue | [2017-04-04](https://pwa.tips/2017/04/04/Issue-1.html) ([A](https://pwa.tips/archives)) | [@pwatips](https://twitter.com/pwatips) ([Gokul](https://twitter.com/gokul_i), [Hemanth HM](https://twitter.com/gnumanth)) | [RSS](https://pwa.tips/feed.xml)
 
 ## Android
 
