@@ -8,6 +8,7 @@ Title | Day | #1 (Archive) | Twitter (Curator) | RSS
 :--|:--|:--|:--|:--
 [Stack Exchange Newsletters](http://stackexchange.com/newsletters) | - | - | [@stackexchange](https://twitter.com/stackexchange) | -
 [Hacker Newsletter](http://www.hackernewsletter.com) | Fri | - ([A](http://us1.campaign-archive2.com/home/?u=faa8eb4ef3a111cef92c4f3d4&id=e505c88a2e)) | [@hnletter](https://twitter.com/hnletter) ([K. Davis](http://www.kaledavis.com)) | [RSS](http://us1.campaign-archive1.com/feed?u=faa8eb4ef3a111cef92c4f3d4&id=e505c88a2e)
+[Better Dev Link](https://betterdev.link) | Mon | - ([A](https://betterdev.link/issues/1)) | [@kureikain](https://twitter.com/kureikain) ([V. Nguyen](https://axcoto.com)) | [RSS](https://betterdev.link/rss.xml)
 
 ## JavaScript & Node.js
 
