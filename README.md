@@ -8,7 +8,9 @@ Title | Day | #1 (Archive) | Twitter (Curator) | RSS
 :--|:--|:--|:--|:--
 [Stack Exchange Newsletters](http://stackexchange.com/newsletters) | - | - | [@stackexchange](https://twitter.com/stackexchange) | -
 [Hacker Newsletter](http://www.hackernewsletter.com) | Fri | - ([A](http://us1.campaign-archive2.com/home/?u=faa8eb4ef3a111cef92c4f3d4&id=e505c88a2e)) | [@hnletter](https://twitter.com/hnletter) ([K. Davis](http://www.kaledavis.com)) | [RSS](http://us1.campaign-archive1.com/feed?u=faa8eb4ef3a111cef92c4f3d4&id=e505c88a2e)
+[Inside Dev](https://inside.com/dev) | Sat | [2017-04-15](https://inside.com/campaigns/inside-dev-2017-04-15-1683) ([A](https://inside.com/lists/dev/recent_issues)) | Adam Dill | -
 [Better Dev Link](https://betterdev.link) | Mon | [2017-06-05](https://betterdev.link/issues/1) ([A](https://betterdev.link/issues)) | [@kureikain](https://twitter.com/kureikain) ([V. Nguyen](https://axcoto.com)) | [RSS](https://betterdev.link/rss.xml)
+[DiscoverDev](https://www.discoverdev.io/) | - | [2017-06-26](http://www.discoverdev.io/archive/2017-06-26) ([A](http://www.discoverdev.io/archive)) | - | [RSS](http://www.discoverdev.io/rss.xml)
 
 ## JavaScript & Node.js
 
@@ -31,9 +33,11 @@ Title | Day | #1 (Archive) | Twitter (Curator) | RSS
 [React.js Newsletter](http://reactjsnewsletter.com) | - | [2015-12-30](http://reactjsnewsletter.com/issues/1) ([A](http://reactjsnewsletter.com/issues)) | - ([T. McGinnis](https://twitter.com/tylermcginnis33), [E. Platter](https://twitter.com/eanplatter)) | -
 [Pony Foo Weekly](https://ponyfoo.com/weekly) | Thu | [2016-03-10](https://ponyfoo.com/weekly/1/deployments-performance-es6-art-and-math) ([A](https://ponyfoo.com/weekly/history)) | [@ponyfoo](https://twitter.com/ponyfoo) ([N. Bevacqua](https://twitter.com/nzgb)) | [RSS](https://ponyfoo.com/weekly/feed)
 [ESNext News](http://esnextnews.com/) | Tue | [2016-03-10](http://esnextnews.com/archive/es-next-news-2016-09-27.html)  ([A](http://esnextnews.com/archive.html)) |  [@ESNextNews](https://twitter.com/ESnextNews) ([Rauschmayer](https://twitter.com/rauschma), [Weber](https://twitter.com/jowe)) | [RSS](https://feeds.feedburner.com/EsnextNews)
+[Node Everywhere](https://newsletter.nodejs.org) | - | 2016? ([A](http://us14.campaign-archive2.com/home/?u=c7c2e114a827812354112c23b&id=f006b61f29)) | - | [RSS](http://us14.campaign-archive2.com/feed?u=c7c2e114a827812354112c23b&id=f006b61f29)
 [pico stitch]() | Mon | [2017-02-28](http://us15.campaign-archive2.com/?u=255b6e97fa550b55e8a9d42b8&id=71b31ae4f6) ([A](http://us15.campaign-archive1.com/home/?u=255b6e97fa550b55e8a9d42b8&id=6415e108fa)) | [@wolframkriesing](https://twitter.com/wolframkriesing) ([W. Kriesing](http://picostitch.com/)) | [RSS](http://us15.campaign-archive2.com/feed?u=255b6e97fa550b55e8a9d42b8&id=6415e108fa)
 [npm weekly](https://www.npmjs.com/npm-weekly) | Thu | ? ([A](http://us9.campaign-archive2.com/home/?u=077dfd41302a71310cef619e5&id=e17fe5d778) [2](https://medium.com/npm-inc/tagged/npm-weekly)) | [@npmjs](https://twitter.com/npmjs) | [RSS](http://us9.campaign-archive2.com/feed?u=077dfd41302a71310cef619e5&id=e17fe5d778)
 [PWA Tips](https://www.pwa.tips) | Tue | [2017-04-04](https://pwa.tips/2017/04/04/Issue-1.html) ([A](https://pwa.tips/archives)) | [@pwatips](https://twitter.com/pwatips) ([Gokul](https://twitter.com/gokul_i), [Hemanth HM](https://twitter.com/gnumanth)) | [RSS](https://pwa.tips/feed.xml)
+[JSK Weekly](https://javascriptkicks.com) | Wed | - | [@JavaScriptKicks](https://twitter.com/@JavaScriptKicks) | [RSS](https://javascriptkicks.com/feeds/rss)
 
 ## Android
 
