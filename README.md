@@ -39,6 +39,7 @@ Title | Day | #1 (Archive) | Twitter (Curator) | RSS
 [PWA Tips](https://www.pwa.tips) | Tue | [2017-04-04](https://pwa.tips/2017/04/04/Issue-1.html) ([A](https://pwa.tips/archives)) | [@pwatips](https://twitter.com/pwatips) ([Gokul](https://twitter.com/gokul_i), [Hemanth HM](https://twitter.com/gnumanth)) | [RSS](https://pwa.tips/feed.xml)
 [Friday Front-end](https://zendev.com/friday-frontend.html) | Fri | [2017-08-11](https://zendev.com/2017/08/11/inaugural-friday-frontend-five.html) ([A](https://zendev.com/category/friday-frontend.html)) | - ([Kevin Ball](https://twitter.com/kbal11)) | -
 [JSK Weekly](https://javascriptkicks.com) | Wed | - | [@JavaScriptKicks](https://twitter.com/@JavaScriptKicks) | [RSS](https://javascriptkicks.com/feeds/rss)
+[Design Systems Weekly](https://designsystems.email/) | - | [2017-09-12](https://designsystems.email/issue/01) ([A](https://designsystems.email/)) | - ([J. Lo Russo](https://twitter.com/lol_russo)) | -
 
 ## Android
 
