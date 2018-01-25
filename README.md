@@ -78,6 +78,12 @@ Title | Day | #1 (Archive) | Twitter (Curator) | RSS
 [Green Ruby News](http://greenruby.org) | Sun | [2013-02-12](http://greenruby.org/grn-001.html) ([A](http://greenruby.org)) | [@greenrubist](https://twitter.com/greenrubist) | [RSS](http://greenruby.org/feed.rss)
 [This Week in Rails](https://rails-weekly.ongoodbits.com) | Sat | [2014-03-14](https://rails-weekly.ongoodbits.com/2014/03/14/issue-1) ([A](https://rails-weekly.ongoodbits.com/archive)) | - | [RSS](https://rails-weekly.ongoodbits.com/feed)
 
+## Software Leadership
+
+Title | Day | #1 (Archive) | Twitter (Curator) | RSS
+:--|:--|:--|:--|:--
+[Software Lead Weekly](http://softwareleadweekly.com/) | Fri | [2012-11-23](http://softwareleadweekly.com/issues/1) | [@orenellenbogen](https://twitter.com/orenellenbogen) | -
+
 ## Halted Newsletters
 
 * [Modern Web Observer](https://modernweb.com) ([Archive](http://us1.campaign-archive2.com/home/?u=675e4f7ef901d5b8f5f909c2f&id=e88f8064d7))
