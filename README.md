@@ -11,6 +11,8 @@ Title | Day | #1 (Archive) | Twitter (Curator) | RSS
 [Inside Dev](https://inside.com/dev) | Sat | [2017-04-15](https://inside.com/campaigns/inside-dev-2017-04-15-1683) ([A](https://inside.com/lists/dev/recent_issues)) | Adam Dill | -
 [Better Dev Link](https://betterdev.link) | Mon | [2017-06-05](https://betterdev.link/issues/1) ([A](https://betterdev.link/issues)) | [@kureikain](https://twitter.com/kureikain) ([V. Nguyen](https://axcoto.com)) | [RSS](https://betterdev.link/rss.xml)
 [DiscoverDev](https://www.discoverdev.io/) | - | [2017-06-26](http://www.discoverdev.io/archive/2017-06-26) ([A](http://www.discoverdev.io/archive)) | - | [RSS](http://www.discoverdev.io/rss.xml)
+[Software Lead Weekly](http://softwareleadweekly.com/) | Fri | [2012-11-23](http://softwareleadweekly.com/issues/1) | [@orenellenbogen](https://twitter.com/orenellenbogen) | -
+
 
 ## JavaScript & Node.js
 
@@ -77,12 +79,6 @@ Title | Day | #1 (Archive) | Twitter (Curator) | RSS
 [Ruby Weekly](http://rubyweekly.com) | Thu | [2010-11-11](http://rubyweekly.com/issues/15) ([A](http://rubyweekly.com/issues)) | [@RubyInside](https://twitter.com/rubyinside) ([P. Cooper](https://twitter.com/peterc)) | [RSS](http://rubyweekly.com/rss)
 [Green Ruby News](http://greenruby.org) | Sun | [2013-02-12](http://greenruby.org/grn-001.html) ([A](http://greenruby.org)) | [@greenrubist](https://twitter.com/greenrubist) | [RSS](http://greenruby.org/feed.rss)
 [This Week in Rails](https://rails-weekly.ongoodbits.com) | Sat | [2014-03-14](https://rails-weekly.ongoodbits.com/2014/03/14/issue-1) ([A](https://rails-weekly.ongoodbits.com/archive)) | - | [RSS](https://rails-weekly.ongoodbits.com/feed)
-
-## Software Leadership
-
-Title | Day | #1 (Archive) | Twitter (Curator) | RSS
-:--|:--|:--|:--|:--
-[Software Lead Weekly](http://softwareleadweekly.com/) | Fri | [2012-11-23](http://softwareleadweekly.com/issues/1) | [@orenellenbogen](https://twitter.com/orenellenbogen) | -
 
 ## Halted Newsletters
 
