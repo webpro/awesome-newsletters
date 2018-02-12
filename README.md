@@ -11,6 +11,7 @@ Title | Day | #1 (Archive) | Twitter (Curator) | RSS
 [Inside Dev](https://inside.com/dev) | Sat | [2017-04-15](https://inside.com/campaigns/inside-dev-2017-04-15-1683) ([A](https://inside.com/lists/dev/recent_issues)) | Adam Dill | -
 [Better Dev Link](https://betterdev.link) | Mon | [2017-06-05](https://betterdev.link/issues/1) ([A](https://betterdev.link/issues)) | [@kureikain](https://twitter.com/kureikain) ([V. Nguyen](https://axcoto.com)) | [RSS](https://betterdev.link/rss.xml)
 [DiscoverDev](https://www.discoverdev.io/) | - | [2017-06-26](http://www.discoverdev.io/archive/2017-06-26) ([A](http://www.discoverdev.io/archive)) | - | [RSS](http://www.discoverdev.io/rss.xml)
+[perf.email](https://perf.email/) | - | [2016-10](http://createsend.com/t/d-7FC31A9B3342BE20) ([A](https://perf.email/)) | https://twitter.com/fox and https://twitter.com/benschwarz | -
 
 ## JavaScript & Node.js
 
