@@ -8,11 +8,11 @@ Title | Day | #1 (Archive) | Twitter (Curator) | RSS
 :--|:--|:--|:--|:--
 [Stack Exchange Newsletters](http://stackexchange.com/newsletters) | - | - | [@stackexchange](https://twitter.com/stackexchange) | -
 [Hacker Newsletter](http://www.hackernewsletter.com) | Fri | - ([A](http://us1.campaign-archive2.com/home/?u=faa8eb4ef3a111cef92c4f3d4&id=e505c88a2e)) | [@hnletter](https://twitter.com/hnletter) ([K. Davis](http://www.kaledavis.com)) | [RSS](http://us1.campaign-archive1.com/feed?u=faa8eb4ef3a111cef92c4f3d4&id=e505c88a2e)
+[Software Lead Weekly](http://softwareleadweekly.com) | Fri | [2012-11-23](http://softwareleadweekly.com/issues/1) ([A](http://softwareleadweekly.com/issues)) | [@orenellenbogen](https://twitter.com/orenellenbogen) | -
+[perf.email](https://perf.email) | - | [2016-10](http://createsend.com/t/d-7FC31A9B3342BE20) ([A](https://perf.email)) | [Karolina Szczur](https://twitter.com/fox), [Ben Schwarz](https://twitter.com/benschwarz) | [RSS](https://perf.email/rss)
 [Inside Dev](https://inside.com/dev) | Sat | [2017-04-15](https://inside.com/campaigns/inside-dev-2017-04-15-1683) ([A](https://inside.com/lists/dev/recent_issues)) | Adam Dill | -
 [Better Dev Link](https://betterdev.link) | Mon | [2017-06-05](https://betterdev.link/issues/1) ([A](https://betterdev.link/issues)) | [@kureikain](https://twitter.com/kureikain) ([V. Nguyen](https://axcoto.com)) | [RSS](https://betterdev.link/rss.xml)
 [DiscoverDev](https://www.discoverdev.io/) | - | [2017-06-26](http://www.discoverdev.io/archive/2017-06-26) ([A](http://www.discoverdev.io/archive)) | - | [RSS](http://www.discoverdev.io/rss.xml)
-[perf.email](https://perf.email/) | - | [2016-10](http://createsend.com/t/d-7FC31A9B3342BE20) ([A](https://perf.email/)) | https://twitter.com/fox and https://twitter.com/benschwarz | -
-[Software Lead Weekly](http://softwareleadweekly.com/) | Fri | [2012-11-23](http://softwareleadweekly.com/issues/1) | [@orenellenbogen](https://twitter.com/orenellenbogen) | -
 
 ## JavaScript & Node.js
 
@@ -88,6 +88,7 @@ Title | Day | #1 (Archive) | Twitter (Curator) | RSS
 * [Front-end Dev Weekly](http://frontenddevweekly.com) ([Archive](http://frontenddevweekly.com/issues))
 * [Weekly Docker Newsletter](https://www.docker.com/newsletter-subscription)
 * [Front End Newsletter](http://frontendnewsletter.com) ([Archive](http://frontendnewsletter.com/issues))
+* [DevCraft](https://devcraftweekly.com) ([Archive](https://devcraftweekly.com/archives/))
 
 ## License
 
