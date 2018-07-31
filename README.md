@@ -57,7 +57,6 @@ Title | Day | #1 (Archive) | Twitter (Curator) | RSS
 [DevOps Newsletter](https://blog.serverdensity.com/devops-newsletter/) | Sun| - | [@serverdensity](https://twitter.com/serverdensity) | [RSS](http://feeds.feedburner.com/serverdensity) 
 [Servers for Hackers](https://serversforhackers.com/editions) | - | [2014-02-25](https://serversforhackers.com/configuring-apache-virtual-hosts) ([A](https://serversforhackers.com/editions)) | [@srvrsforhackers](https://twitter.com/srvrsforhackers) ([C. Fidao](https://twitter.com/fideloper)) | [RSS](https://serversforhackers.com/feed)
 [Web Operations Weekly](http://webopsweekly.com) | Wed | [2015-02-10](http://webopsweekly.com/issues/1) ([A](http://webopsweekly.com/issues)) | [@WebOpsDaily](https://twitter.com/WebOpsDaily) | [RSS](http://webopsweekly.com/rss/22ck275b)
-[Cron Weekly](https://www.cronweekly.com) | Sun | [2015-11-07](https://www.cronweekly.com/issue-1/) ([A](https://www.cronweekly.com/archives))| [@CronWeekly](https://twitter.com/CronWeekly) ([M. Geniar](https://ma.ttias.be/)) | [RSS](https://www.cronweekly.com/feed)
 
 ## PHP
 
@@ -89,6 +88,7 @@ Title | Day | #1 (Archive) | Twitter (Curator) | RSS
 * [Weekly Docker Newsletter](https://www.docker.com/newsletter-subscription)
 * [Front End Newsletter](http://frontendnewsletter.com) ([Archive](http://frontendnewsletter.com/issues))
 * [DevCraft](https://devcraftweekly.com) ([Archive](https://devcraftweekly.com/archives/))
+* [Cron Weekly](https://www.cronweekly.com) ([Archive](https://www.cronweekly.com/archives))
 
 ## License
 
