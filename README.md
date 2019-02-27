@@ -63,7 +63,7 @@ Title | Day | #1 (Archive) | Twitter (Curator) | RSS
 
 Title | Day | #1 (Archive) | Twitter (Curator) | RSS
 :--|:--|:--|:--|:--
-[securitynewsletter.co](https://securitynewsletter.co/) | Fri| [2016-12-02](https://securitynewsletter.co/archive) | [@dietervds](https://twitter.com/dietervds) | [RSS](https://securitynewsletter.co/issues?format=rss) 
+[securitynewsletter.co](https://securitynewsletter.co/) | Fri| [2016-12-02](https://securitynewsletter.co/issues/1) ([A](https://securitynewsletter.co/archive)) | [@dietervds](https://twitter.com/dietervds) | [RSS](https://securitynewsletter.co/issues?format=rss) 
 
 ## PHP
 
