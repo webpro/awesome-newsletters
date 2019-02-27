@@ -59,6 +59,12 @@ Title | Day | #1 (Archive) | Twitter (Curator) | RSS
 [Servers for Hackers](https://serversforhackers.com/editions) | - | [2014-02-25](https://serversforhackers.com/configuring-apache-virtual-hosts) ([A](https://serversforhackers.com/editions)) | [@srvrsforhackers](https://twitter.com/srvrsforhackers) ([C. Fidao](https://twitter.com/fideloper)) | [RSS](https://serversforhackers.com/feed)
 [Web Operations Weekly](http://webopsweekly.com) | Wed | [2015-02-10](http://webopsweekly.com/issues/1) ([A](http://webopsweekly.com/issues)) | [@WebOpsDaily](https://twitter.com/WebOpsDaily) | [RSS](http://webopsweekly.com/rss/22ck275b)
 
+# Security
+
+Title | Day | #1 (Archive) | Twitter (Curator) | RSS
+:--|:--|:--|:--|:--
+[securitynewsletter.co](https://securitynewsletter.co/) | Fri| [2016-12-02](https://securitynewsletter.co/archive) | [@dietervds](https://twitter.com/dietervds) | [RSS](https://securitynewsletter.co/issues?format=rss) 
+
 ## PHP
 
 Title | Day | #1 (Archive) | Twitter (Curator) | RSS
