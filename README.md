@@ -13,6 +13,7 @@ Title | Day | #1 (Archive) | Twitter (Curator) | RSS
 [Inside Dev](https://inside.com/dev) | Sat | [2017-04-15](https://inside.com/campaigns/inside-dev-2017-04-15-1683) ([A](https://inside.com/lists/dev/recent_issues)) | Adam Dill | -
 [Better Dev Link](https://betterdev.link) | Mon | [2017-06-05](https://betterdev.link/issues/1) ([A](https://betterdev.link/issues)) | [@kureikain](https://twitter.com/kureikain) ([V. Nguyen](https://axcoto.com)) | [RSS](https://betterdev.link/rss.xml)
 [DiscoverDev](https://www.discoverdev.io/) | - | [2017-06-26](http://www.discoverdev.io/archive/2017-06-26) ([A](http://www.discoverdev.io/archive)) | - | [RSS](http://www.discoverdev.io/rss.xml)
+[Resilience Roundup](https://ResilienceRoundup.com) | Mon | [2018-09-17](https://www.getrevue.co/profile/resilience/issues/resilience-weekly-issue-1-127739) ([A](https://resilienceroundup.com/issues/)) | [@ThaiWoodHere](https://twitter.com/ThaiWoodHere) | -
 
 ## JavaScript & Node.js
 
