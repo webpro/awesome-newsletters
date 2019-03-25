@@ -13,6 +13,7 @@ Title | Day | #1 (Archive) | Twitter (Curator) | RSS
 [Inside Dev](https://inside.com/dev) | Sat | [2017-04-15](https://inside.com/campaigns/inside-dev-2017-04-15-1683) ([A](https://inside.com/lists/dev/recent_issues)) | Adam Dill | -
 [Better Dev Link](https://betterdev.link) | Mon | [2017-06-05](https://betterdev.link/issues/1) ([A](https://betterdev.link/issues)) | [@kureikain](https://twitter.com/kureikain) ([V. Nguyen](https://axcoto.com)) | [RSS](https://betterdev.link/rss.xml)
 [DiscoverDev](https://www.discoverdev.io/) | - | [2017-06-26](http://www.discoverdev.io/archive/2017-06-26) ([A](http://www.discoverdev.io/archive)) | - | [RSS](http://www.discoverdev.io/rss.xml)
+[securitynewsletter.co](https://securitynewsletter.co/) | Fri| [2016-12-02](https://securitynewsletter.co/issues/1) ([A](https://securitynewsletter.co/archive)) | [@dietervds](https://twitter.com/dietervds) | [RSS](https://securitynewsletter.co/issues?format=rss) 
 
 ## JavaScript & Node.js
 
@@ -58,12 +59,6 @@ Title | Day | #1 (Archive) | Twitter (Curator) | RSS
 [DevOps Newsletter](https://blog.serverdensity.com/devops-newsletter/) | Sun| - | [@serverdensity](https://twitter.com/serverdensity) | [RSS](http://feeds.feedburner.com/serverdensity) 
 [Servers for Hackers](https://serversforhackers.com/editions) | - | [2014-02-25](https://serversforhackers.com/configuring-apache-virtual-hosts) ([A](https://serversforhackers.com/editions)) | [@srvrsforhackers](https://twitter.com/srvrsforhackers) ([C. Fidao](https://twitter.com/fideloper)) | [RSS](https://serversforhackers.com/feed)
 [Web Operations Weekly](http://webopsweekly.com) | Wed | [2015-02-10](http://webopsweekly.com/issues/1) ([A](http://webopsweekly.com/issues)) | [@WebOpsDaily](https://twitter.com/WebOpsDaily) | [RSS](http://webopsweekly.com/rss/22ck275b)
-
-# Security
-
-Title | Day | #1 (Archive) | Twitter (Curator) | RSS
-:--|:--|:--|:--|:--
-[securitynewsletter.co](https://securitynewsletter.co/) | Fri| [2016-12-02](https://securitynewsletter.co/issues/1) ([A](https://securitynewsletter.co/archive)) | [@dietervds](https://twitter.com/dietervds) | [RSS](https://securitynewsletter.co/issues?format=rss) 
 
 ## PHP
 
