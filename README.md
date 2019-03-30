@@ -10,11 +10,11 @@ Title | Day | #1 (Archive) | Twitter (Curator) | RSS
 [Hacker Newsletter](http://www.hackernewsletter.com) | Fri | - ([A](http://us1.campaign-archive2.com/home/?u=faa8eb4ef3a111cef92c4f3d4&id=e505c88a2e)) | [@hnletter](https://twitter.com/hnletter) ([K. Davis](http://www.kaledavis.com)) | [RSS](http://us1.campaign-archive1.com/feed?u=faa8eb4ef3a111cef92c4f3d4&id=e505c88a2e)
 [Software Lead Weekly](http://softwareleadweekly.com) | Fri | [2012-11-23](http://softwareleadweekly.com/issues/1) ([A](http://softwareleadweekly.com/issues)) | [@orenellenbogen](https://twitter.com/orenellenbogen) | -
 [perf.email](https://perf.email) | - | [2016-10](http://createsend.com/t/d-7FC31A9B3342BE20) ([A](https://perf.email)) | [Karolina Szczur](https://twitter.com/fox), [Ben Schwarz](https://twitter.com/benschwarz) | [RSS](https://perf.email/rss)
+[securitynewsletter.co](https://securitynewsletter.co/) | Fri| [2016-12-02](https://securitynewsletter.co/issues/1) ([A](https://securitynewsletter.co/archive)) | [@dietervds](https://twitter.com/dietervds) | [RSS](https://securitynewsletter.co/issues?format=rss) 
 [Inside Dev](https://inside.com/dev) | Sat | [2017-04-15](https://inside.com/campaigns/inside-dev-2017-04-15-1683) ([A](https://inside.com/lists/dev/recent_issues)) | Adam Dill | -
 [Better Dev Link](https://betterdev.link) | Mon | [2017-06-05](https://betterdev.link/issues/1) ([A](https://betterdev.link/issues)) | [@kureikain](https://twitter.com/kureikain) ([V. Nguyen](https://axcoto.com)) | [RSS](https://betterdev.link/rss.xml)
 [DiscoverDev](https://www.discoverdev.io/) | - | [2017-06-26](http://www.discoverdev.io/archive/2017-06-26) ([A](http://www.discoverdev.io/archive)) | - | [RSS](http://www.discoverdev.io/rss.xml)
 [Resilience Roundup](https://ResilienceRoundup.com) | Mon | [2018-09-17](https://www.getrevue.co/profile/resilience/issues/resilience-weekly-issue-1-127739) ([A](https://resilienceroundup.com/issues/)) | [@ThaiWoodHere](https://twitter.com/ThaiWoodHere) | -
-[securitynewsletter.co](https://securitynewsletter.co/) | Fri| [2016-12-02](https://securitynewsletter.co/issues/1) ([A](https://securitynewsletter.co/archive)) | [@dietervds](https://twitter.com/dietervds) | [RSS](https://securitynewsletter.co/issues?format=rss) 
 
 ## JavaScript & Node.js
 
