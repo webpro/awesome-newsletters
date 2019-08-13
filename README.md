@@ -57,7 +57,7 @@ Title | Day | #1 (Archive) | Twitter (Curator) | RSS
 
 Title | Day | #1 (Archive) | Twitter (Curator) | RSS
 :--|:--|:--|:--|:--
-[DevOps Weekly](https://www.devopsweekly.com/) | Sun| - | [@garethr](https://twitter.com/garethr) | -
+[DevOps Weekly](https://www.devopsweekly.com/) | Sun| - | [@garethr](https://twitter.com/garethr) | [RSS](https://us2.campaign-archive.com/feed?u=b6635e37e35fa5eff0c2a947a&id=a63f24d068)
 [DevOps Newsletter](https://blog.serverdensity.com/devops-newsletter/) | Sun| - | [@serverdensity](https://twitter.com/serverdensity) | [RSS](http://feeds.feedburner.com/serverdensity) 
 [Servers for Hackers](https://serversforhackers.com/editions) | - | [2014-02-25](https://serversforhackers.com/configuring-apache-virtual-hosts) ([A](https://serversforhackers.com/editions)) | [@srvrsforhackers](https://twitter.com/srvrsforhackers) ([C. Fidao](https://twitter.com/fideloper)) | [RSS](https://serversforhackers.com/feed)
 [Web Operations Weekly](http://webopsweekly.com) | Wed | [2015-02-10](http://webopsweekly.com/issues/1) ([A](http://webopsweekly.com/issues)) | [@WebOpsDaily](https://twitter.com/WebOpsDaily) | [RSS](http://webopsweekly.com/rss/22ck275b)
