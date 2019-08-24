@@ -15,7 +15,7 @@ Title | Day | #1 (Archive) | Twitter (Curator) | RSS
 [Better Dev Link](https://betterdev.link) | Mon | [2017-06-05](https://betterdev.link/issues/1) ([A](https://betterdev.link/issues)) | [@kureikain](https://twitter.com/kureikain) ([V. Nguyen](https://axcoto.com)) | [RSS](https://betterdev.link/rss.xml)
 [DiscoverDev](https://www.discoverdev.io/) | - | [2017-06-26](http://www.discoverdev.io/archive/2017-06-26) ([A](http://www.discoverdev.io/archive)) | - | [RSS](http://www.discoverdev.io/rss.xml)
 [Resilience Roundup](https://ResilienceRoundup.com) | Mon | [2018-09-17](https://www.getrevue.co/profile/resilience/issues/resilience-weekly-issue-1-127739) ([A](https://resilienceroundup.com/issues/)) | [@ThaiWoodHere](https://twitter.com/ThaiWoodHere) | -
-[Dev Updates](https://mailchi.mp/f59beeac6b9b/devupdates) | Sun | [21/07/2019](https://us3.campaign-archive.com/?u=34a5509fd3336ce51db8f28d6&id=f250f81706) ([A](https://us3.campaign-archive.com/home/?u=34a5509fd3336ce51db8f28d6&id=78abab66ab)) | [@vaibhav_khulbe](https://twitter.com/vaibhav_khulbe) ([Vaibhav Khulbe](https://twitter.com/vaibhav_khulbe)) | -
+[Dev Updates](https://mailchi.mp/f59beeac6b9b/devupdates) | Sun | [2019-07-21](https://us3.campaign-archive.com/?u=34a5509fd3336ce51db8f28d6&id=f250f81706) ([A](https://us3.campaign-archive.com/home/?u=34a5509fd3336ce51db8f28d6&id=78abab66ab)) | [@vaibhav_khulbe](https://twitter.com/vaibhav_khulbe) ([Vaibhav Khulbe](https://twitter.com/vaibhav_khulbe)) | -
 
 ## JavaScript & Node.js
 
