@@ -91,6 +91,14 @@ Title | Day | #1 (Archive) | Twitter (Curator) | RSS
 [Green Ruby News](http://greenruby.org) | Sun | [2013-02-12](http://greenruby.org/grn-001.html) ([A](http://greenruby.org)) | [@greenrubist](https://twitter.com/greenrubist) | [RSS](http://greenruby.org/feed.rss)
 [This Week in Rails](https://rails-weekly.ongoodbits.com) | Sat | [2014-03-14](https://rails-weekly.ongoodbits.com/2014/03/14/issue-1) ([A](https://rails-weekly.ongoodbits.com/archive)) | - | [RSS](https://rails-weekly.ongoodbits.com/feed)
 
+## Marketing
+
+
+Title | Day | #1 (Archive) | Twitter (Curator) | RSS
+:--|:--|:--|:--|:--
+[tl;dr Marketing](https://tldrmarketing.com) | Mon | [2020-01-06](https://tldrmarketing.com/amp-stories/20200106/) ([A](https://tldrmarketing.com)) | [@SaijoGeorge](https://twitter.com/SaijoGeorge) | - | [RSS](https://tldrmarketing.com/feed)
+
+
 ## Halted Newsletters
 
 * [Modern Web Observer](https://modernweb.com) ([Archive](http://us1.campaign-archive2.com/home/?u=675e4f7ef901d5b8f5f909c2f&id=e88f8064d7))
